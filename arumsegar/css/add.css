@@ -30,12 +30,12 @@ footer {
     box-shadow: 0 5px 10px rgba(0,0,0,.3);
 }
 body {
-  padding-top: 70px;
-  background:
+    padding-top: 70px;
+    background:
 linear-gradient(135deg, #4e342e 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
 linear-gradient(225deg, #4e342e 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
-background-color:#4e342e;
-background-size: 64px 128px;
+    background-color:#4e342e;
+    background-size: 64px 128px;
 }
 @media (min-width: 765px) {
     .dropdown:hover .dropdown-menu {
